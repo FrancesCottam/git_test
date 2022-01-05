@@ -1,0 +1,1 @@
+Hello World I am having fun getting started on the Odin Project - pity I didn't do it sooner.
